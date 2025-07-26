@@ -121,7 +121,7 @@ export const initialState = {
     title: "Likedpage Women's Ball Gown Bridal Wedding Dresses",
     price: 399,
     rating: 5,
-    image: "/Image/GownBridal.jpg",
+    image: "/image/4KTv.jpg",
     discount: 20
   
 },

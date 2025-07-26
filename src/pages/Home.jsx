@@ -27,7 +27,7 @@ function Home() {
             />
             <CategoryCard 
               title="Home & Kitchen"
-              image="https://links.papareact.com/s03"
+              image="https://tse2.mm.bing.net/th/id/OIP.WZIkVhVq61sEzbEjfxA6hgHaE7?pid=Api&P=0&h=180"
             />
             <CategoryCard 
               title="Fashion"
@@ -35,7 +35,7 @@ function Home() {
             />
             <CategoryCard 
               title="Beauty & Care"
-              image="https://links.papareact.com/4y0"
+              image="https://tse3.mm.bing.net/th/id/OIP.ZHIPM-cqX1-Z5VUsuH4f3QHaFF?pid=Api&P=0&h=180"
             />
             <CategoryCard 
               title="Toys & Games"
