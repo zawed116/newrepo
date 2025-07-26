@@ -23,7 +23,7 @@ function Home() {
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 mb-8">
             <CategoryCard 
               title="Electronics"
-              image="https://links.papareact.com/yo8"
+              image="http://www.pngall.com/wp-content/uploads/1/Electronic-High-Quality-PNG.png"
             />
             <CategoryCard 
               title="Home & Kitchen"
@@ -31,7 +31,7 @@ function Home() {
             />
             <CategoryCard 
               title="Fashion"
-              image="https://links.papareact.com/gu1"
+              image="https://img.freepik.com/free-photo/pretty-young-stylish-sexy-woman-pink-luxury-dress-summer-fashion-trend-chic-style-sunglasses-blue-studio-background-shopping-holding-paper-bags-talking-mobile-phone-shopaholic_285396-2957.jpg?size=626&ext=jpg"
             />
             <CategoryCard 
               title="Beauty & Care"
@@ -39,7 +39,7 @@ function Home() {
             />
             <CategoryCard 
               title="Toys & Games"
-              image="https://links.papareact.com/qp7"
+              image="https://tse3.mm.bing.net/th/id/OIP.y9NRfrrhLFaKWznd0Kf2vQHaEK?pid=Api&P=0&h=180"
             />
           </div>
         </div>
