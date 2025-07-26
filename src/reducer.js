@@ -23,7 +23,7 @@ export const initialState = {
       title: "4K Ultra HD Smart TV 55-inch",
       price: 499.99,
       rating: 4,
-      image: "../public/image/4K Ultra HD Smart TV 55-inch.jpg",
+      image: "/image/4KTv.jpg",
       discount: 15
     },
     {
@@ -31,7 +31,7 @@ export const initialState = {
       title: "Wireless Bluetooth Speaker",
       price: 79.99,
       rating: 4,
-      image: "../public/image/Wireless Bluetooth Speaker.jpg",
+      image: "/image/WirelessBluetoothSpeaker.jpg",
       discount: 10
     },
     {
@@ -39,7 +39,7 @@ export const initialState = {
       title: "Gaming Laptop 16GB RAM",
       price: 1299.99,
       rating: 5,
-      image: "../public/image/Gaming Laptop 16GB RAM.jpg",
+      image: "/image/GamingLaptop.jpg",
       discount: 8
     },
     {
@@ -55,7 +55,7 @@ export const initialState = {
       title: "Coffee Maker with Grinder",
       price: 89.99,
       rating: 4,
-      image: "../public/image/Coffie maker.jpg",
+      image: "/image/Coffiemaker.jpg",
       discount: 20
     },
     {
@@ -63,7 +63,7 @@ export const initialState = {
       title: "Robot Vacuum Cleaner",
       price: 249.99,
       rating: 4,
-      image: "../public/image/Robot Vacuum Cleaner.jpg",
+      image: "/image/RobotVacuumCleaner.jpg",
       discount: 12
     },
     {
@@ -71,7 +71,7 @@ export const initialState = {
       title: "Air Fryer 5.8QT Digital",
       price: 119.99,
       rating: 5,
-      image: "../public/image/Air Fryer 5.8QT Digital.jpg",
+      image: "/image/AirFryer5.8QTDigital.jpg",
       discount: 25
     },
     {
@@ -79,7 +79,7 @@ export const initialState = {
       title: "Wireless Charging Stand",
       price: 39.99,
       rating: 4,
-      image: "../public/image/Wireless Charging Stand.jpg",
+      image: "/image/WirelessChargingStand.jpg",
       discount: 0
     },
     {
@@ -88,7 +88,7 @@ export const initialState = {
         title: "Iron",
         price: 19.99,
         rating: 5,
-        image: "../public/image/Dry Iron.jpg",
+        image: "/image/DryIron.jpg",
         discount: 10
       
     },
@@ -99,7 +99,7 @@ export const initialState = {
         title: "Maxima",
         price: 39.99,
         rating: 5,
-        image: "../public/image/Maxima.jpg",
+        image: "/image/Maxima.jpg",
         discount: 20
       
     },
@@ -110,7 +110,7 @@ export const initialState = {
       title: "Titan Heritage 1.43",
       price: 59,
       rating: 5,
-      image: "../public/image/Titan Heritage.jpg",
+      image: "/image/Heritage.jpg",
       discount: 9
     
   },
@@ -121,7 +121,7 @@ export const initialState = {
     title: "Likedpage Women's Ball Gown Bridal Wedding Dresses",
     price: 399,
     rating: 5,
-    image: "../public/image/Gown Bridal.jpg",
+    image: "/image/GownBridal.jpg",
     discount: 20
   
 },
@@ -132,9 +132,7 @@ export const initialState = {
   title: "Womens Lehenga Choli For Ceremonial",
   price: 159,
   rating: 5,
-  image: "../public/image/Womens Lehenga Choli For Ceremonial.jpg",
-  discount: 17
-
+image:"/image/Lehenga.jpg"
 }
     
   ]
